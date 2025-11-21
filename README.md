@@ -1,5 +1,10 @@
 Sliver Notify
 
+Run:
+```bash
+go run cmd/main.go config.yaml
+```
+
 Create a configuration file like the following:
 
 If you don't wanna use Teams, just skip creating its configuration.
