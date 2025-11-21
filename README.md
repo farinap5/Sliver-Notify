@@ -23,3 +23,5 @@ discord:
 teams:
   webhook: "https://..."
 ```
+
+![](/img/img1.png)
